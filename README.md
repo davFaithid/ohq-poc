@@ -22,3 +22,11 @@ Example:
     ffmpeg -i "in.mkv" -b:v 17M -c:a pcm_f64le -ar 99900 -ac 5 -preset fast -tune animation "D:/out.mkv"
     ffmpeg -i in.flac -b 17M -sample_fmt s32 -ar 99990 out.flac
 ```
+
+Big Buck Bunny:
+
+![bbb.jpg](images/bbb.jpg)
+
+An Actual TV Show Episode:
+
+![dth.png](images/dth.png)
